@@ -1,3 +1,9 @@
+php5 (5.4.12-2-ppa-2) hardy; urgency=low
+
+  * Had to use ubuntu dist
+
+ -- Ton Sharp <Forma-PRO@66ton99.org.ua>  Mon, 11 Mar 2013 09:48:00 +0200
+
 php5 (5.4.12-2-ppa-1) wheezy; urgency=low
 
   * Init ppa reliase
